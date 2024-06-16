@@ -1,0 +1,4 @@
+{
+  "buildCommand": "yarn run build",
+  "outputDirectory": "dist/web/.next"
+}
